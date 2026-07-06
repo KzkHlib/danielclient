@@ -1,0 +1,15 @@
+[
+{
+  "modid": "fullbright",
+  "name": "FullBright",
+  "description": "FullBright By Daniel.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "authorList": ["DanielLePedo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

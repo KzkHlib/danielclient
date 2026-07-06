@@ -1,0 +1,25 @@
+{
+  "package": "com.example.autoclicker.mixins",
+  "refmap": "mixins.fullbright.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "required": false,
+  "client": [
+    "MixinBlock",
+    "MixinBlockModelRenderer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinEntitySpawnHandler",
+    "MixinItemRenderer",
+    "MixinMusicTicker",
+    "MixinChannelRegistrationHandler",
+    "MixinClientConnectedToServerEvent",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager",
+    "MixinEntityHitBox",
+    "MixinEntityJesus",
+    "MixinEntitySpider",
+    "MixinRenderChams",
+    "MinecraftAccessor"
+  ]
+}

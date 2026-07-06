@@ -1,0 +1,8 @@
+{
+  "menu_music": {
+    "category": "music",
+    "sounds": [
+      { "name": "menu", "stream": true }
+    ]
+  }
+}
